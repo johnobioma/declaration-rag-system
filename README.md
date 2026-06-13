@@ -48,6 +48,6 @@ streamlit run project.py
  License
 MIT
 
-## 🤝 Contributing
+ Contributing
 Feel free to open issues or submit pull requests!
 "@ | Out-File -FilePath README.md -Encoding UTF8
